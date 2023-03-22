@@ -1,0 +1,5 @@
+Code GPT
+	- add chat gpt API key: Ctrl + Shift + P > search `CodeGPT : SET API Key`
+	- remove chat gpt API key: Ctrl + Shift + P > search `CodeGPT : REMOVE API Key`
+	- want to quick ask code gpt by select a block of text then pess Ctrl + Shift + I
+	- link: https://www.codegpt.co/docs/tutorial-features/refactor
